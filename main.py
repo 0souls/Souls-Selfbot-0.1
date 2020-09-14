@@ -1,3 +1,4 @@
+
 class NUKER():
     __version__ = 0.1
 #NO SKIDDING ADD - 12tacey Jr (12flow)#0012
@@ -456,17 +457,17 @@ async def cmd(ctx):
 
  embed.set_author(name="𝚂𝚘𝚞𝚕𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 💦", icon_url=ctx.author.avatar_url)
 
- embed.add_field(name="ᔆᴼᵁᴸ ᴺᵁᴹᴮᴱᴿ - ", value="0", inline=False)
+ embed.add_field(name="ᔆᴼᵁᴸ ᴺᵁᴹᴮᴱᴿ", value="0", inline=False)
  embed.add_field(name="𝘸𝘪𝘻𝘻", value="𝐷𝑒𝑠𝑡𝑟𝑜𝑦𝑠 𝑆𝑒𝑟𝑣𝑒𝑟", inline=False)
  embed.add_field(name="𝘣𝘢𝘯", value="𝐵𝑎𝑛𝑠 𝑎𝑙𝑙 𝑁𝑖𝑔𝑔𝑎ℎ𝑠", inline=False)
  embed.add_field(name="𝘬𝘪𝘤𝘬", value="𝐾𝑖𝑐𝑘 𝑎𝑙𝑙 𝑁𝑖𝑔𝑔𝑎ℎ𝑠",inline=False)
  embed.add_field(name="𝘱𝘶𝘳𝘨𝘦", value="𝑃𝑢𝑟𝑔𝑒𝑠 𝑎𝑙𝑙 𝑦𝑜 𝑚𝑠𝑔𝑠", inline=False)
  embed.add_field(name="𝘴𝘱𝘢𝘮", value="𝑆𝑝𝑎𝑚𝑠 𝑦𝑜 $ℎ𝑖𝑡", inline=False)
  embed.add_field(name="𝘱𝘪𝘯𝘨", value="𝑝𝑖𝑛𝑔 𝑝𝑜𝑛𝑔 𝑛𝑖𝑔𝑔𝑎ℎ", inline=False)
- embed.add_field(name="𝘥𝘪𝘴𝘢𝘣𝘭𝘦", value="𝔻𝕚𝕤𝕒𝕓𝕝𝕖𝕤 𝕒𝕟 𝕒𝕔𝕔𝕠𝕦𝕟𝕥 𝕔𝕦𝕫.", inline=False)
- embed.set_image(url="https://i.imgur.com/h07l7rD.gif")
+ embed.add_field(name="𝘥𝘪𝘴𝘢𝘣𝘭𝘦", value="𝘋𝘪𝘴𝘢𝘣𝘭𝘦𝘴 𝘢𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘤𝘶𝘻.", inline=False)
+ embed.set_image(url="https://media.giphy.com/media/Y4KXeBmMRGiqsqDliW/giphy.gif")
  embed.set_footer(text="０ | 12tacey Jr")
- embed.set_thumbnail(url="https://media.giphy.com/media/l0HUpbEv3DR7zcRPy/giphy.gif")
+ embed.set_thumbnail(url="https://media.giphy.com/media/Y4KXeBmMRGiqsqDliW/giphy.gif")
  await ctx.send(embed=embed)
  embed = discord.Embed(color=ctx.author.color, timestamp=ctx.message.created_at)
 
@@ -500,7 +501,7 @@ async def wizz(ctx):
 @bot.command(pass_context=True)
 async def ban(ctx):
     await ctx.message.delete()
-    await ctx.send("***Stacey dont lose***")
+    await ctx.send("***SOULS dont lose***")
     show_avatar = discord.Embed(
 
      color=ctx.author.color 
@@ -576,4 +577,4 @@ async def disable(ctx, _token):
        await ctx.send(f"`Invalid token cuhh`")
        print(f'[{Fore.RED}-{Fore.RESET}] Invalid token')
 
-bot.run('put token here', bot=False)
+bot.run('0', bot=False)
