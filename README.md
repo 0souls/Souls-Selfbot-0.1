@@ -9,14 +9,14 @@ dont have a pc yet or cant download python or you on imac dont worry 0soul/12tac
 has cover that https://repl.it/@0souls/soul-selfbot-updated#main.py use this if u dont have windows or a phone enter your token in config and main.py at the bottom
 then u press run also enter your discord password and prefix then your all set! have fun with the bot
 -----------------------------------------------------------------------------------------------------------
-
+___________________________________________________________________________________________________________
 # SKIDS
 
-
-
+-----------------------------------------------------------------------------------------------------------
+___________________________________________________________________________________________________________
 # Updates
 
-
+-----------------------------------------------------------------------------------------------------------
 ___________________________________________________________________________________________________________
 ask me for more details on it cord:12tacey Jr (12flow)#0012
 
