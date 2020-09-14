@@ -1,6 +1,6 @@
 # Souls-Selfbot-0.1
 
-**Soul selfbot getting backup and redone, new selfbot ready and up
+**Soul selfbot getting backup and redone, new selfbot ready and up**
 ![Screenshot](https://i.ibb.co/RQCFPsV/Screen-Shot-2020-09-14-at-2-17-25-PM.png)
 
 # Setup !
