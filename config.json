@@ -1,0 +1,18 @@
+{
+    "token": "discord token",
+    "password": "discord password",
+    "prefix": ".",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": true,
+    "privnote_sniper": true,
+
+    "stream_url": "https://twitch.tv/souls on top",
+    "tts_language": "en",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "19805a8f-a93d-4b7e-8884-8721bf51f83d",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}
