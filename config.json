@@ -1,7 +1,7 @@
 {
     "token": "discord token",
     "password": "discord password",
-    "prefix": ".",   
+    "prefix": "discord prefix",   
     
     "nitro_sniper": true, 
     "giveaway_sniper": true,
