@@ -1,7 +1,7 @@
 # Souls-Selfbot-0.1
 
 Soul selfbot getting backup and redone, new selfbot ready and up
-![Screenshot](https://ibb.co/yg895Zb)
+![Screenshot](https://i.ibb.co/RQCFPsV/Screen-Shot-2020-09-14-at-2-17-25-PM.png)
 
 
 # SKIDS
