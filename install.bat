@@ -1,6 +1,6 @@
 @echo off
 cls
-title 6ix Pip Setup
-py -3.8 -m pip install -r requirements.txt
+title Soul Pip Setup
+py -3.8.2 -m poetry install
 echo Go and run the selfbot runner
 pause
