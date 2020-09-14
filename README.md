@@ -3,6 +3,11 @@
 Soul selfbot getting backup and redone, new selfbot ready and up
 ![Screenshot](https://i.ibb.co/RQCFPsV/Screen-Shot-2020-09-14-at-2-17-25-PM.png)
 
+# Setup !
+
+dont have a pc yet or cant download python or you on imac dont worry 0soul/12tacey Jr
+has cover that https://repl.it/@0souls/soul-selfbot-updated#main.py use this if u dont have windows or a phone enter your token in config and main.py at the bottom
+then u press run also enter your discord password and prefix then your all set! have fun with the bot
 
 # SKIDS
 
